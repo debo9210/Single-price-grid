@@ -106,7 +106,7 @@ ul{
 }
 
 
-@media (max-width: 375px){
+@media (max-width: 516px){
 	#top-section{
 		margin: 30px 20px 40px 40px;
 	}
